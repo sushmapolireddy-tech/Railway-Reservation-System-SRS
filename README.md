@@ -50,6 +50,19 @@ The SRS document defines the **functional and non-functional requirements**, use
 
 ---
 
+
+## 📐 UML Diagrams Included
+
+This repository also contains **UML diagrams** created for the Railway Reservation System to visually represent system design and behavior.
+
+### UML Diagrams Provided
+- **Class Diagram** – Shows system classes, attributes, methods, and relationships
+- **Use Case Diagram** – Represents interactions between users and the system
+- **Sequence Diagram** – Illustrates the flow of operations during ticket booking
+- **Activity Diagrams** – Depicts the step-by-step booking and payment process
+
+📂 Location: `UML-Diagrams/Railway_System_UML.pdf`
+
 ## 🖥️ Operating Environment
 - Windows NT / XP / 98 or higher
 - Linux operating systems
